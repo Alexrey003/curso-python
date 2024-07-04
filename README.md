@@ -2,7 +2,7 @@
 En este repositorio se tendra acceso a diferentes archivos sobre un curso de Python, dichos archivos tendran dentro de ellos ejemplos basicos, intermedios y avanzados de los temas a los que se refieren.
 
 ## Ejercicios Curso 📚
-Cuando se hayan visto, entendido y practicado 5 archivos se recomienda ir a la carpeta de ejercicios **(W.I.P)**, para poder asi reforzar los conocimientos aprendidas y pasados.
+En el directorio de **Ejercicios** se encuentran ejercicios para poder practicar cada tema, cada tema cuenta con 3 ejercicios cada uno con una dificultad diferente.
 
 ## Recomendaciones ✨
 Se recomienda para este curso y otros crear una directorio especifico para poder asi practicar cada tema que se vaya viendo, y poder reforzar asi mas los conocimientos, dentro de ese directorio añladir una seccion para los ejercicios que se dejen en este curso y/o ejercicios hechos por el mismo usuario.
