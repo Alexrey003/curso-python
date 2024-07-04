@@ -1,6 +1,7 @@
 123, 'texto', 1324.123, True #Datos simples
 
 'LISTAS'
+'Para poder definir una lista podemos hacer uso de []'
 
 lista = ["Alexis", 'Valeria', 21, 20, True, False]
 
@@ -67,9 +68,9 @@ conjunto = {'Tortugas', 'patitos', 21}
 print(conjunto)
 print("\n")
 
-'No vamos a poder accerder por indices y no nos permitira repetir valores'
+'No vamos a poder acceder por indices y no nos permitira repetir valores'
 conjunto = {1, 1, 1, 1, 1}
-print(conjunto)
+print(conjunto) #Esto solo imprimira el valor 1 ya que nota que se repite dicho valor
 print("\n")
 
 'Otra manera de definir un conjunto el mediante la palabra reservada set'
@@ -89,11 +90,12 @@ diccionario = {
 
 print(diccionario)
 print("\n")
+'Cada conjunto cuenta con su palabra clave (a la izquierda) y su respectivo valor (a la derecha)'
 
 'Podemos mandar a imprimir un valor mediante su palabra clave'
 print(diccionario ['Procesador'])
 
-
+#====================================================================================================================
 'Podemos meter distintos datos compuestos dentro de otro dato compuesto'
 
 lista1 = [1, 2, 3, 4, 5, 6]
