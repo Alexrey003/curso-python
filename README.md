@@ -1,6 +1,9 @@
 # Curso Python 🐍
 En este repositorio se tendra acceso a diferentes archivos sobre un curso de Python, dichos archivos tendran dentro de ellos ejemplos basicos, intermedios y avanzados de los temas a los que se refieren.
 
+## Blocs 📖
+En el directorio **Blocs** se encuentran distintos words con informacion completo sobre los temas vistos en este curso, sirve como una pequeña documentacion para si gustas leerla.
+
 ## Ejercicios Curso 📚
 En el directorio de **Ejercicios** se encuentran ejercicios para poder practicar cada tema, cada tema cuenta con 3 ejercicios cada uno con una dificultad diferente.
 
