@@ -18,5 +18,3 @@ Se recomienda para este curso y otros crear una directorio especifico para poder
 Para poder clonar este repositorio has uso del comando `git clone url` siendo url la direccion de donde quieres copiar el repositorio, en este caso:
 Metodo HTTPS: https://github.com/Alexrey003/curso-python.git
 Para poder tenerlo en tu propia computadora.
-
-
