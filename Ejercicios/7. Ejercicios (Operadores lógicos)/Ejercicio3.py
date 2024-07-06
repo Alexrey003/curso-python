@@ -1,0 +1,5 @@
+'''Operadores logicos
+Evalua la siguiente expresion
+Solo se proporcionaran 0 y 1 tendras que recordar que valores (true o false) corresponden
+
+not (((1 and (0 or 1)) or (not 1)) and ((0 or 0) and (not 1))) or (1 and (not (0 or 1)))'''
