@@ -18,6 +18,11 @@ Para seguir en orden el curso te proporciono aqui el temario, ordenado de que ca
 + **Tema 12**: [_Metodos de listas_](https://github.com/Alexrey003/curso-python/blob/main/11_metodosListas.py)
 + **Tema 13**: [_Metodos de diccionarios_](https://github.com/Alexrey003/curso-python/blob/main/12_metodosDiccionarios.py)
 + **Tema 14**: [_Más metodos de diccionarios_](https://github.com/Alexrey003/curso-python/blob/main/14_diccionarios2.0.py)
++ **Tema 15**: [_Bucle For_](https://github.com/Alexrey003/curso-python/blob/main/15_bucleFor.py)
++ **Tema 16**: [_Bucle While_](https://github.com/Alexrey003/curso-python/blob/main/16_bucleWhile.py)
++ **Tema 17**: [_Funciones build-in_](https://github.com/Alexrey003/curso-python/blob/main/17_funcionesIntegradas.py)
++ **Tema 18**: [_Funciones propias_](https://github.com/Alexrey003/curso-python/blob/main/18_funcionesPropias.py)
++ **Tema 19**: [_Funciones lambda_](https://github.com/Alexrey003/curso-python/blob/main/19_funcionesLambda.py)
 
 # Blocs 📖
 En el directorio **Blocs** se encuentran distintos words con informacion completo sobre los temas vistos en este curso, sirve como una pequeña documentacion para si gustas leerla.
