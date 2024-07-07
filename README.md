@@ -4,6 +4,20 @@ En este repositorio se tendra acceso a diferentes archivos sobre un curso de Pyt
 # Temario 📝
 Para seguir en orden el curso te proporciono aqui el temario, ordenado de que cada tema se complemente con el anterior:
 
++ **Tema 1**: [_Hola mundo_](https://github.com/Alexrey003/curso-python/blob/main/1_hola_mundo.py)
++ **Tema 2**: [_Datos simples_](https://github.com/Alexrey003/curso-python/blob/main/2_datos_simples.py)
++ **Tema 3**: [_Variables 1_](https://github.com/Alexrey003/curso-python/blob/main/3_variables.py)
++ **Tema 4**: [_Concatenacion_](https://github.com/Alexrey003/curso-python/blob/main/4_concatenacion.py)
++ **Tema 5**: [_Datos Compuestos_](https://github.com/Alexrey003/curso-python/blob/main/5_datos_compuestos.py)
++ **Tema 6**: [_Variables 2_](https://github.com/Alexrey003/curso-python/blob/main/13_variables2.0.py)
++ **Tema 7**: [_Operadores aritméticos_](https://github.com/Alexrey003/curso-python/blob/main/6_operadoresAritmeticos.py)
++ **Tema 8**: [_Operadores de comparación_](https://github.com/Alexrey003/curso-python/blob/main/7_operadoresComparacion.py)
++ **Tema 9**: [_Operadores lógicos_](https://github.com/Alexrey003/curso-python/blob/main/8_operadoresLogicos.py)
++ **Tema 10**: [_Condicionales_](https://github.com/Alexrey003/curso-python/blob/main/9_Condicionales.py)
++ **Tema 11**: [_Metodos de cadenas_](https://github.com/Alexrey003/curso-python/blob/main/10_metodosCadenas.py)
++ **Tema 12**: [_Metodos de listas_](https://github.com/Alexrey003/curso-python/blob/main/11_metodosListas.py)
++ **Tema 13**: [_Metodos de diccionarios_](https://github.com/Alexrey003/curso-python/blob/main/12_metodosDiccionarios.py)
++ **Tema 14**: [_Más metodos de diccionarios_](https://github.com/Alexrey003/curso-python/blob/main/14_diccionarios2.0.py)
 
 # Blocs 📖
 En el directorio **Blocs** se encuentran distintos words con informacion completo sobre los temas vistos en este curso, sirve como una pequeña documentacion para si gustas leerla.
