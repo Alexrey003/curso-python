@@ -106,7 +106,7 @@ print("==================================================================")
 
 #========================================================================================
 'Metodo clear'
-'Este metodo clear() elimina todos los elementosde una lista, nos deja una lista vacia'
+'Este metodo clear() elimina todos los elementos de una lista, nos deja una lista vacia'
 
 lista6 = list(["Cocholate", 21, 34.65, "Mundo"])
 
