@@ -23,12 +23,15 @@ Para seguir en orden el curso te proporciono aqui el temario, ordenado de que ca
 + **Tema 17**: [_Funciones build-in_](https://github.com/Alexrey003/curso-python/blob/main/17_funcionesIntegradas.py)
 + **Tema 18**: [_Funciones propias_](https://github.com/Alexrey003/curso-python/blob/main/18_funcionesPropias.py)
 + **Tema 19**: [_Funciones lambda_](https://github.com/Alexrey003/curso-python/blob/main/19_funcionesLambda.py)
++ **Tema 20**: [_Modulos_](https://github.com/Alexrey003/curso-python/tree/main/20_Modulos)
++ **Tema 21**: [_Enrutamiento_](https://github.com/Alexrey003/curso-python/tree/main/21_EnrutModulos)
++ **Tema 22**: [_Paquetes_](https://github.com/Alexrey003/curso-python/tree/main/22_Paquetes)
 
 # Blocs 📖
 En el directorio **Blocs** se encuentran distintos words con informacion completo sobre los temas vistos en este curso, sirve como una pequeña documentacion para si gustas leerla.
 
 # Ejercicios Curso 📚
-En el directorio de **Ejercicios** se encuentran ejercicios para poder practicar cada tema, cada tema cuenta con 3 ejercicios cada uno con una dificultad diferente.
+En el directorio de **Ejercicios** se encuentran ejercicios para poder practicar cada tema con una dificultad diferente cada uno de ellos.
 
 # Recomendaciones ✨
 Se recomienda para este curso y otros crear una directorio especifico para poder asi practicar cada tema que se vaya viendo, y poder reforzar asi mas los conocimientos, dentro de ese directorio añladir una seccion para los ejercicios que se dejen en este curso y/o ejercicios hechos por el mismo usuario.
