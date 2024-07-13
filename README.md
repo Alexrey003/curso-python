@@ -32,7 +32,9 @@ Para seguir en orden el curso te proporciono aqui el temario, ordenado de que ca
 ## Temario P.O.O 📘
 Subtemario para los temas de Programación orientada a objetos.
 
-+ **Tema 1**: [_Primeros conceptos_]()
++ **Tema 1**: [_Primeros conceptos_](https://github.com/Alexrey003/curso-python/blob/main/25_POO1.py)
++ **Tema 2**: [_Primera clase_](https://github.com/Alexrey003/curso-python/blob/main/26_POO2.py)
++ **Tema 3**: [_Trabajando con métodos_](https://github.com/Alexrey003/curso-python/blob/main/27_PO3.py)
 
 # Blocs 📖
 En el directorio **Blocs** se encuentran distintos words con informacion completo sobre los temas vistos en este curso, sirve como una pequeña documentacion para si gustas leerla.
