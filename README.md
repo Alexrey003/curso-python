@@ -26,6 +26,13 @@ Para seguir en orden el curso te proporciono aqui el temario, ordenado de que ca
 + **Tema 20**: [_Modulos_](https://github.com/Alexrey003/curso-python/tree/main/20_Modulos)
 + **Tema 21**: [_Enrutamiento_](https://github.com/Alexrey003/curso-python/tree/main/21_EnrutModulos)
 + **Tema 22**: [_Paquetes_](https://github.com/Alexrey003/curso-python/tree/main/22_Paquetes)
++ **Tema 23**: [_Excepciones_](https://github.com/Alexrey003/curso-python/blob/main/23_excepciones.py)
++ **Tema 24**: [_Expresiones regulares_](https://github.com/Alexrey003/curso-python/blob/main/24_expresiones_regulares.py)
+
+## Temario P.O.O 📘
+Subtemario para los temas de Programación orientada a objetos.
+
++ **Tema 1**: [_Primeros conceptos_]()
 
 # Blocs 📖
 En el directorio **Blocs** se encuentran distintos words con informacion completo sobre los temas vistos en este curso, sirve como una pequeña documentacion para si gustas leerla.
